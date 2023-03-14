@@ -1,2 +1,4 @@
 # git_tutorial
-Hello everybody, this is new line
+Nhom4QLDACNTT1/git_tutorial to confirm.
+
+
